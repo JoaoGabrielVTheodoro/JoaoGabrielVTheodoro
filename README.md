@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Gabriel Valentim Theodoro</h1>
-<h3 align="center">Student of Web Development, backend and frontend and mobile devices</h3>
+<h3 align="center">Student of Web Development, backend, frontend and mobile devices</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaogabrielvtheodoro&label=Profile%20views&color=0e75b6&style=flat" alt="joaogabrielvtheodoro" /> </p>
 
